@@ -1,0 +1,14 @@
+Copyright (c) 2026 Kishorin(TikTok) or enkhuush10(github)
+
+TERMS AND CONDITIONS FOR USE AND INSPIRATION:
+
+1. Educational & Inspirational Use: You are permitted to view, download, 
+   and study this source code for personal learning, research, or inspiration.
+   
+2. Direct Copying Prohibited: You may not copy, redistribute, republish, 
+   or host identical or substantially similar copies of this source code.
+
+3. Non-Commercial Only: You may not use this software, its source code, 
+   or any derivative works for any commercial purposes or financial gain.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
